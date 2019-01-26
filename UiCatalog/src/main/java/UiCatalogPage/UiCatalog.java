@@ -3,7 +3,7 @@ package UiCatalogPage;
 import AlertsPage.Alerts;
 import ButtonsPage.Buttons;
 import ControlsPage.Controls;
-import ImgesPage.Images;
+import ImagesPage.Images;
 import PickersPage.Picker;
 import SearchBarPage.SearchBar;
 import SegmentsPage.Segments;
